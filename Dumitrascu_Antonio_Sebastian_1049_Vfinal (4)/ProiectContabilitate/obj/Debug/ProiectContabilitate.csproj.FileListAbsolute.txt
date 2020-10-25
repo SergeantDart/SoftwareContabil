@@ -1,0 +1,51 @@
+C:\Users\anton\source\repos\ProiectContabilitate\bin\Debug\ProiectContabilitate.exe.config
+C:\Users\anton\source\repos\ProiectContabilitate\bin\Debug\ProiectContabilitate.exe
+C:\Users\anton\source\repos\ProiectContabilitate\bin\Debug\ProiectContabilitate.pdb
+C:\Users\anton\source\repos\ProiectContabilitate\obj\Debug\ProiectContabilitate.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\ProiectContabilitate\obj\Debug\ProiectContabilitate.Properties.Resources.resources
+C:\Users\anton\source\repos\ProiectContabilitate\obj\Debug\ProiectContabilitate.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\ProiectContabilitate\obj\Debug\ProiectContabilitate.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\ProiectContabilitate\obj\Debug\ProiectContabilitate.exe
+C:\Users\anton\source\repos\ProiectContabilitate\obj\Debug\ProiectContabilitate.pdb
+C:\Users\anton\source\repos\ProiectContabilitate\obj\Debug\ProiectContabilitate.AfisareAnaliza.resources
+C:\Users\anton\source\repos\ProiectContabilitate\obj\Debug\ProiectContabilitate.Help.resources
+C:\Users\anton\source\repos\ProiectContabilitate\obj\Debug\ProiectContabilitate.Inregistrare.resources
+C:\Users\anton\source\repos\ProiectContabilitate\obj\Debug\ProiectContabilitate.Main.resources
+C:\Users\anton\source\repos\ProiectContabilitate\obj\Debug\ProiectContabilitate.Situatie.resources
+C:\Users\anton\source\repos\ProiectContabilitate\obj\Debug\ProiectContabilitate.GraficSituatie.resources
+C:\Users\anton\source\repos\ProiectContabilitate\bin\Debug\Conturi.accdb
+C:\Users\anton\source\repos\ProiectContabilitate\obj\Debug\ProiectContabilitate.BazaDeDate.resources
+C:\Users\anton\OneDrive\Desktop\ProiectContabilitate\bin\Debug\Conturi.accdb
+C:\Users\anton\OneDrive\Desktop\ProiectContabilitate\bin\Debug\ProiectContabilitate.exe.config
+C:\Users\anton\OneDrive\Desktop\ProiectContabilitate\bin\Debug\ProiectContabilitate.exe
+C:\Users\anton\OneDrive\Desktop\ProiectContabilitate\bin\Debug\ProiectContabilitate.pdb
+C:\Users\anton\OneDrive\Desktop\ProiectContabilitate\obj\Debug\ProiectContabilitate.csprojAssemblyReference.cache
+C:\Users\anton\OneDrive\Desktop\ProiectContabilitate\obj\Debug\ProiectContabilitate.AfisareAnaliza.resources
+C:\Users\anton\OneDrive\Desktop\ProiectContabilitate\obj\Debug\ProiectContabilitate.BazaDeDate.resources
+C:\Users\anton\OneDrive\Desktop\ProiectContabilitate\obj\Debug\ProiectContabilitate.GraficSituatie.resources
+C:\Users\anton\OneDrive\Desktop\ProiectContabilitate\obj\Debug\ProiectContabilitate.Help.resources
+C:\Users\anton\OneDrive\Desktop\ProiectContabilitate\obj\Debug\ProiectContabilitate.Inregistrare.resources
+C:\Users\anton\OneDrive\Desktop\ProiectContabilitate\obj\Debug\ProiectContabilitate.Main.resources
+C:\Users\anton\OneDrive\Desktop\ProiectContabilitate\obj\Debug\ProiectContabilitate.Properties.Resources.resources
+C:\Users\anton\OneDrive\Desktop\ProiectContabilitate\obj\Debug\ProiectContabilitate.Situatie.resources
+C:\Users\anton\OneDrive\Desktop\ProiectContabilitate\obj\Debug\ProiectContabilitate.csproj.GenerateResource.cache
+C:\Users\anton\OneDrive\Desktop\ProiectContabilitate\obj\Debug\ProiectContabilitate.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Desktop\ProiectContabilitate\obj\Debug\ProiectContabilitate.exe
+C:\Users\anton\OneDrive\Desktop\ProiectContabilitate\obj\Debug\ProiectContabilitate.pdb
+C:\Users\anton\OneDrive\Desktop\PAW\Dumitrascu_Antonio_Sebastian_1049_Vfinal (4)\ProiectContabilitate\bin\Debug\Conturi.accdb
+C:\Users\anton\OneDrive\Desktop\PAW\Dumitrascu_Antonio_Sebastian_1049_Vfinal (4)\ProiectContabilitate\bin\Debug\ProiectContabilitate.exe.config
+C:\Users\anton\OneDrive\Desktop\PAW\Dumitrascu_Antonio_Sebastian_1049_Vfinal (4)\ProiectContabilitate\bin\Debug\ProiectContabilitate.exe
+C:\Users\anton\OneDrive\Desktop\PAW\Dumitrascu_Antonio_Sebastian_1049_Vfinal (4)\ProiectContabilitate\bin\Debug\ProiectContabilitate.pdb
+C:\Users\anton\OneDrive\Desktop\PAW\Dumitrascu_Antonio_Sebastian_1049_Vfinal (4)\ProiectContabilitate\obj\Debug\ProiectContabilitate.csprojAssemblyReference.cache
+C:\Users\anton\OneDrive\Desktop\PAW\Dumitrascu_Antonio_Sebastian_1049_Vfinal (4)\ProiectContabilitate\obj\Debug\ProiectContabilitate.AfisareAnaliza.resources
+C:\Users\anton\OneDrive\Desktop\PAW\Dumitrascu_Antonio_Sebastian_1049_Vfinal (4)\ProiectContabilitate\obj\Debug\ProiectContabilitate.BazaDeDate.resources
+C:\Users\anton\OneDrive\Desktop\PAW\Dumitrascu_Antonio_Sebastian_1049_Vfinal (4)\ProiectContabilitate\obj\Debug\ProiectContabilitate.GraficSituatie.resources
+C:\Users\anton\OneDrive\Desktop\PAW\Dumitrascu_Antonio_Sebastian_1049_Vfinal (4)\ProiectContabilitate\obj\Debug\ProiectContabilitate.Help.resources
+C:\Users\anton\OneDrive\Desktop\PAW\Dumitrascu_Antonio_Sebastian_1049_Vfinal (4)\ProiectContabilitate\obj\Debug\ProiectContabilitate.Inregistrare.resources
+C:\Users\anton\OneDrive\Desktop\PAW\Dumitrascu_Antonio_Sebastian_1049_Vfinal (4)\ProiectContabilitate\obj\Debug\ProiectContabilitate.Main.resources
+C:\Users\anton\OneDrive\Desktop\PAW\Dumitrascu_Antonio_Sebastian_1049_Vfinal (4)\ProiectContabilitate\obj\Debug\ProiectContabilitate.Properties.Resources.resources
+C:\Users\anton\OneDrive\Desktop\PAW\Dumitrascu_Antonio_Sebastian_1049_Vfinal (4)\ProiectContabilitate\obj\Debug\ProiectContabilitate.Situatie.resources
+C:\Users\anton\OneDrive\Desktop\PAW\Dumitrascu_Antonio_Sebastian_1049_Vfinal (4)\ProiectContabilitate\obj\Debug\ProiectContabilitate.csproj.GenerateResource.cache
+C:\Users\anton\OneDrive\Desktop\PAW\Dumitrascu_Antonio_Sebastian_1049_Vfinal (4)\ProiectContabilitate\obj\Debug\ProiectContabilitate.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Desktop\PAW\Dumitrascu_Antonio_Sebastian_1049_Vfinal (4)\ProiectContabilitate\obj\Debug\ProiectContabilitate.exe
+C:\Users\anton\OneDrive\Desktop\PAW\Dumitrascu_Antonio_Sebastian_1049_Vfinal (4)\ProiectContabilitate\obj\Debug\ProiectContabilitate.pdb
